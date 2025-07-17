@@ -425,6 +425,7 @@ header {
     width: 80%;
     padding-bottom: 50px;
     margin: auto;
+    overflow: hidden;
 }
 #sect03 h2{
     text-align: center;
